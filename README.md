@@ -30,5 +30,4 @@ I enjoy solving real-world problems using modern web technologies.
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: (add later)
-- Portfolio Website: (coming soon)
+- LinkedIn: https://www.linkedin.com/in/aishwaryapowar
