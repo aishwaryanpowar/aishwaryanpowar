@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Aishwarya 👋
 
-<!--
-**aishwaryanpowar/aishwaryanpowar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Software Developer | Full Stack Enthusiast
 
-Here are some ideas to get you started:
+I am a software developer passionate about building clean, scalable, and user-friendly applications.  
+I enjoy solving real-world problems using modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Frontend: React, JavaScript, HTML, CSS, Tailwind CSS
+- Backend: Java, Spring Boot
+- Database: PostgreSQL
+- Tools: Git, GitHub, Docker (Basics)
+
+---
+
+## 📌 Featured Projects
+- 💰 Expense Tracker (Full Stack)
+- 📄 Job Application Tracker
+- 📅 Business Booking System
+
+---
+
+## 🌱 Currently Learning
+- Advanced Spring Boot
+- System Design Basics
+- Cloud & DevOps fundamentals
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: (add later)
+- Portfolio Website: (coming soon)
