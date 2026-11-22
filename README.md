@@ -13,7 +13,7 @@ I'm passionate about creating meaningful digital solutions, solving real-world p
 
 🛠️ **Technologies I Work With**
 - **Languages:** JavaScript, TypeScript, Python, PHP, C#
-- **Frontend:** React.js, Vue.js, HTML5, CSS3
+- **Frontend:** HTML5, CSS3, React.js
 - **Backend:** Node.js, Laravel, ASP.NET Core
 - **Databases:** MySQL, PostgreSQL, MongoDB, SQL Server
 - **Cloud & DevOps:** AWS, Docker, Git, GitHub
